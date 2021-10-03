@@ -1,0 +1,8 @@
+#comment
+*.txt
+#comment
+tmp/
+#comment
+*_old
+#comment
+*_backup
