@@ -6,3 +6,7 @@ tmp/
 *_old
 #comment
 *_backup
+#comment
+Thumbs.db
+#comment
+.DS_Store
